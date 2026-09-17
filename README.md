@@ -1,9 +1,13 @@
 # BSEE_Offshore_O-G_Analysis
-Five-Year Analysis of Offshore Oil & Gas Production, Platform Characteristics and Regulatory Compliance Using BSEE Data
+Project Title:
+Five-Year Analysis of Offshore Oil & Gas Production, Platform Characteristics & Regulatory Compliance Using BSEE Data
+Data Analytics Project | BSEE Data | 2020–2025
+
 
 📌 Project Overview:
 This project analyzes offshore oil and gas production, platform characteristics, and regulatory compliance using data from the U.S. Bureau of Safety and Environmental Enforcement (BSEE).
 The analysis covers the period January 2020 to December 2025 and integrates multiple BSEE datasets to identify production trends, seasonality, platform characteristics, and regulatory compliance patterns.
+
 
 🎯 Project Aim:
 To evaluate offshore oil and gas platform performance over a five-year period by examining production trends, platform characteristics, operational activity, and regulatory compliance indicators using BSEE data.
@@ -38,6 +42,7 @@ Regional compliance indicators
 
 🔄 Project Workflow:
 Data Collection → Data Loading → Data Pre-processing → Feature Engineering→ EDA → Production Analysis → Platform Analysis→ Compliance Analysis → Integrated Analysis→ Key Insights → Recommendations → Conclusion
+
 
 📌 Key Areas of Analysis:
 Area:Focus
