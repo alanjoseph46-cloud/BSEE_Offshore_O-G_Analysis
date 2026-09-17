@@ -37,38 +37,16 @@ Regional compliance indicators
 
 
 🔄 Project Workflow:
-Data Collection
-      ↓
-Data Loading & Initial Overview
-      ↓
-Data Pre-processing
-      ↓
-Feature Engineering
-      ↓
-Exploratory Data Analysis
-      ↓
-Production Analysis
-      ↓
-Platform Characteristics Analysis
-      ↓
-Regulatory Compliance Analysis
-      ↓
-Integrated Analysis
-      ↓
-Key Insights
-      ↓
-Recommendations
-      ↓
-Conclusion
+Data Collection → Data Loading → Data Pre-processing → Feature Engineering→ EDA → Production Analysis → Platform Analysis→ Compliance Analysis → Integrated Analysis→ Key Insights → Recommendations → Conclusion
 
 📌 Key Areas of Analysis:
-Area	                         Focus
-Production	           Oil, gas and oil-equivalent trends
-Seasonality	           Monthly and yearly production patterns
-Platform	             Age, depth and structure type
-Operations	           Producing wells and platform activity
-Compliance	           INCs, warnings and shut-ins
-Integration            Production + platform + compliance
+Area:Focus
+Production → Oil, gas and oil-equivalent trends
+Seasonality → Monthly and yearly production patterns
+Platform → Age, depth and structure type
+Operations →  Producing wells and platform activity
+Compliance →  INCs, warnings and shut-ins
+Integration →  Production + platform + compliance
 
 
 🛠️ Tools & Technologies used:
