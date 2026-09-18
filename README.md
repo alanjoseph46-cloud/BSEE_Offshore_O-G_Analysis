@@ -1,4 +1,4 @@
-# BSEE_Offshore_O-G_Analysis
+# BSEE_Offshore_O&G_Analysis
 Project Title:
 
 Five-Year Analysis of Offshore Oil & Gas Production, Platform Characteristics & Regulatory Compliance Using BSEE Data
